@@ -6,6 +6,12 @@
 
 An Omarchy theme in plum night, moonlit lavender, candle amber and lightning cyan, sampled from the painting.
 
+## Backgrounds
+
+**1 · Ingolstadt, 1792.** November, one in the morning. The attic laboratory on the night of the spark.
+
+**2 · Orkney, 1795.** Three years later, alone on a rock in the North Sea, Victor sinks his second creature at three in the morning, still telling no one. We build alone too now, one person and AI. We just don't keep it secret.
+
 ## Install
 
 Omarchy menu → Install → Style → Theme, then paste:
@@ -16,4 +22,4 @@ https://github.com/nathankramm/omarchy-ingolstadt-1792-theme
 
 ## Credit
 
-Wallpaper is AI-generated (Grok Imagine, Nano Banana Pro), directed by Nathan Kramm.
+Wallpapers are AI-generated (Grok Imagine, Nano Banana Pro), directed by Nathan Kramm.
