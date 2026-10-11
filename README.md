@@ -10,7 +10,7 @@ An Omarchy theme in plum night, moonlit lavender and candle amber, sampled from 
 
 Numbered in the novel's order. 2, 3, 4 and 6 are still being made.
 
-**1 · Ingolstadt, 1792.** November, one in the morning. The attic laboratory on the night of the spark.
+**1 · Ingolstadt, 1792.** November, one in the morning. Moments before the creature opens its eyes. It will wake up good; whether Victor stays or runs is still his to choose. Every time we build something now, we stand in this room.
 
 **5 · Orkney, 1795.** Three years later, alone on a rock in the remotest of the Orkneys, Victor sinks his second creature at three in the morning, still telling no one. We build alone too now, one person and AI. We just don't keep it secret.
 
