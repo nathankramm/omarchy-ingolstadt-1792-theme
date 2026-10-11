@@ -14,7 +14,7 @@ Numbered in the order the story happens. 2, 3 and 4 are still being made.
 
 **5 · Orkney, 1795.** Three years later, alone on a rock in the remotest of the Orkneys, Victor sinks his second creature at three in the morning, still telling no one. We build alone too now, one person and AI. We just don't keep it secret.
 
-**6 · Midnight Sun, 1797.** July, "a very high latitude", where "the sun is for ever visible". Robert Walton sails north through the drifting ice toward the pole, the voyage that frames the whole novel. "What can stop the determined heart and resolved will of man?" He also promised to be "cool, persevering, and prudent." That's how to build with AI: go further, carefully.
+**6 · Midnight Sun, 1797.** July, "a very high latitude", where "the sun is for ever visible". Robert Walton drives north through the drifting ice toward the pole, the voyage that frames the whole novel. "Success shall crown my endeavours." "What can stop the determined heart and resolved will of man?" With AI, nothing. Build.
 
 **7 · Out of chaos.** Mary Shelley, 1831: invention "does not consist in creating out of void, but out of chaos." AI is the same: something new, made from everything we've already made.
 
