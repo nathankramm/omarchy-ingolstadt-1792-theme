@@ -4,7 +4,7 @@
 
 > Ingolstadt, November 1792. One in the morning. Rain on the attic panes, the candle nearly burnt out. Victor Frankenstein has built everything he can. The rest has to come from the storm. AI and Omarchy put the laboratory in our hands. So build. Experiment.
 
-An Omarchy theme in plum night, moonlit lavender, candle amber and lightning cyan, sampled from the painting.
+An Omarchy theme in plum night, moonlit lavender and candle amber, sampled from the painting.
 
 ## Backgrounds
 
