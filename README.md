@@ -28,6 +28,8 @@ Omarchy menu → Install → Style → Theme, then paste:
 https://github.com/nathankramm/omarchy-ingolstadt-1792-theme
 ```
 
+**Boot screen.** Choose Ingolstadt 1792 under Style > Unlock for the OMARCHY wordmark in candle gold.
+
 ## Credit
 
 Wallpapers are AI-generated (Grok Imagine, Nano Banana Pro), directed by Nathan Kramm.
