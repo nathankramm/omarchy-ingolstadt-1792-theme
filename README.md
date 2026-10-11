@@ -12,6 +12,8 @@ An Omarchy theme in plum night, moonlit lavender, candle amber and lightning cya
 
 **2 · Orkney, 1795.** Three years later, alone on a rock in the North Sea, Victor sinks his second creature at three in the morning, still telling no one. We build alone too now, one person and AI. We just don't keep it secret.
 
+**Out of all of us.** Mary Shelley wrote in 1831 that invention "does not consist in creating out of void, but out of chaos." AI is built the same way, from everything people have written and made. Not out of void, but out of all of us.
+
 ## Install
 
 Omarchy menu → Install → Style → Theme, then paste:
