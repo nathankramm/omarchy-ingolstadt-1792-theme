@@ -14,7 +14,7 @@ Numbered in the novel's order. 2, 3, 4 and 6 are still being made.
 
 **5 · Orkney, 1795.** Three years later, alone on a rock in the North Sea, Victor sinks his second creature at three in the morning, still telling no one. We build alone too now, one person and AI. We just don't keep it secret.
 
-**7 · Out of all of us.** Mary Shelley wrote in 1831 that invention "does not consist in creating out of void, but out of chaos." AI is built the same way, from everything people have written and made. Not out of void, but out of all of us.
+**7 · Out of chaos.** Mary Shelley, 1831: invention "does not consist in creating out of void, but out of chaos." AI is the same: something new, made from everything we've already made.
 
 **8 · Omarchy** and **9 · The symbol.** The Omarchy wordmark and logo in the theme's colours, drawn from the official pixel grid.
 
@@ -29,3 +29,5 @@ https://github.com/nathankramm/omarchy-ingolstadt-1792-theme
 ## Credit
 
 Wallpapers are AI-generated (Grok Imagine, Nano Banana Pro), directed by Nathan Kramm.
+
+*"And now, once again, I bid my hideous progeny go forth and prosper."* — Mary Shelley, 1831
