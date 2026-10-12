@@ -30,6 +30,8 @@ bright_cyan = "#9be4f7"
 bright_blue = "#a3bcff"
 bright_magenta = "#d6b6ff"
 
+hyprland_inactive_border = "rgba(584a7caa)"
+
 # Omarchy 3.x reads these legacy keys. Omarchy 4 derives the same values from the keys above.
 cursor = "#ebe4fa"
 selection_foreground = "#ebe4fa"
