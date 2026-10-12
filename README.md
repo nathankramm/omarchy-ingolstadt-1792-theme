@@ -8,19 +8,19 @@ An Omarchy theme in plum night, moonlit lavender and candle amber, sampled from 
 
 ## Backgrounds
 
-Numbered in the order the story happens. 2 and 3 are still being made.
+Numbered in the order the story happens. 2 is still being made.
 
 **1 · Ingolstadt, 1792.** November, one in the morning. Moments before the creature opens its eye. It will wake up good; whether Victor stays or runs is still his to choose. Every time we build something now, we stand in this room.
 
-**4 · Montanvert, 1794.** August, sunset over the Mer de Glace, the "sea of ice" that gave Victor "a sublime ecstasy that gave wings to the soul". In the hut on the mountain, by the creature's fire, Victor has heard his creation out and says yes: "I consent." The creature's answer: "Depart to your home and commence your labours." Find him on the ice, and the light in the hut. Then build.
+**3 · Montanvert, 1794.** August, sunset over the Mer de Glace, the "sea of ice" that gave Victor "a sublime ecstasy that gave wings to the soul". In the hut on the mountain, by the creature's fire, Victor has heard his creation out and says yes: "I consent." The creature's answer: "Depart to your home and commence your labours." Find him on the ice, and the light in the hut. Then build.
 
-**5 · Orkney, 1795.** Three years later, alone on a rock in the remotest of the Orkneys, Victor sinks his second creature at three in the morning, still telling no one. We build alone too now, one person and AI. We just don't keep it secret.
+**4 · Orkney, 1795.** Three years later, alone on a rock in the remotest of the Orkneys, Victor sinks his second creature at three in the morning, still telling no one. We build alone too now, one person and AI. We just don't keep it secret.
 
-**6 · Midnight Sun, 1797.** July, "a very high latitude", where "the sun is for ever visible". Robert Walton drives north through the drifting ice toward the pole, the voyage that frames the whole novel. "Success shall crown my endeavours." "What can stop the determined heart and resolved will of man?" With AI, nothing. Build.
+**5 · Midnight Sun, 1797.** July, "a very high latitude", where "the sun is for ever visible". Robert Walton drives north through the drifting ice toward the pole, the voyage that frames the whole novel. "Success shall crown my endeavours." "What can stop the determined heart and resolved will of man?" With AI, nothing. Build.
 
-**7 · Out of chaos.** Mary Shelley, 1831: invention "does not consist in creating out of void, but out of chaos." AI is the same: something new, made from everything we've already made.
+**6 · Out of chaos.** Mary Shelley, 1831: invention "does not consist in creating out of void, but out of chaos." AI is the same: something new, made from everything we've already made.
 
-**8 · Omarchy** and **9 · The symbol.** The Omarchy wordmark and logo in the theme's colours, drawn from the official pixel grid.
+**7 · Omarchy** and **8 · The symbol.** The Omarchy wordmark and logo in the theme's colours, drawn from the official pixel grid.
 
 ## Install
 
