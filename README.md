@@ -14,7 +14,7 @@ Numbered in the order the story happens. 2 is still being made.
 
 **3 · Montanvert, 1794.** August, sunset over the Mer de Glace, the "sea of ice" that gave Victor "a sublime ecstasy that gave wings to the soul". In the hut on the mountain, by the creature's fire, Victor has heard his creation out and says yes: "I consent." The creature's answer: "Depart to your home and commence your labours." Find him on the ice, and the light in the hut. Then build.
 
-**4 · Orkney, 1795.** Three years later, alone on a rock in the remotest of the Orkneys, Victor sinks his second creature at three in the morning, still telling no one. We build alone too now, one person and AI. We just don't keep it secret.
+**4 · London, 1794.** A clear autumn morning, from Greenwich Park. Victor and Clerval sail up the Thames past Greenwich, and "at length we saw the numerous steeples of London, St. Paul's towering above all." Victor has come for "the most distinguished natural philosophers"; Clerval for "the men of genius and talent who flourished at this time." Find their ship on the river. The best minds used to be a voyage away. With AI, they're a question away. Learn, then build.
 
 **5 · Midnight Sun, 1797.** July, "a very high latitude", where "the sun is for ever visible". Robert Walton drives north through the drifting ice toward the pole, the voyage that frames the whole novel. "Success shall crown my endeavours." "What can stop the determined heart and resolved will of man?" With AI, nothing. Build.
 
@@ -39,5 +39,7 @@ Wallpapers are AI-generated (Grok Imagine, Nano Banana Pro), directed by Nathan 
 Midnight Sun is painted over a public-domain NOAA photograph (NOAA Photo Library, pl23arct0259, Beaufort Sea, 2008).
 
 Montanvert is painted over a public-domain photograph of the Mer de Glace from Montanvert, 1863–65 (Rijksmuseum, RP-F-F80196).
+
+London is painted over a public-domain watercolour, *The Thames at Greenwich*, after John Robert Cozens (composition 1792; Victoria and Albert Museum, P.28-1934).
 
 *"And now, once again, I bid my hideous progeny go forth and prosper."* — Mary Shelley, 1831
