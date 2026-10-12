@@ -32,11 +32,13 @@ Omarchy menu → Install → Style → Theme, then paste:
 https://github.com/nathankramm/omarchy-ingolstadt-1792-theme
 ```
 
-**Boot screen.** Choose Ingolstadt 1792 under Style > Unlock for the OMARCHY wordmark in candle gold.
+**Boot screen.** Choose Ingolstadt 1792 under Style → Unlock for the OMARCHY wordmark in candle gold.
 
 ## Credit
 
-Wallpapers are AI-generated (Grok Imagine, Nano Banana Pro), directed by Nathan Kramm.
+The five scenes are AI-generated (Grok Imagine, Nano Banana Pro), directed by Nathan Kramm. 6, 7 and 8 are drawn in code.
+
+Every quotation is Mary Shelley's own: the 1818 novel, her 1831 revision and her 1831 introduction. The novel dates its letters only "17—", so the years are reconstructed from the story.
 
 Midnight Sun is painted over a public-domain NOAA photograph (NOAA Photo Library, pl23arct0259, Beaufort Sea, 2008).
 
