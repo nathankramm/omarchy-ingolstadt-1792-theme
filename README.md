@@ -8,9 +8,11 @@ An Omarchy theme in plum night, moonlit lavender and candle amber, sampled from 
 
 ## Backgrounds
 
-Numbered in the order the story happens. 2, 3 and 4 are still being made.
+Numbered in the order the story happens. 2 and 3 are still being made.
 
 **1 · Ingolstadt, 1792.** November, one in the morning. Moments before the creature opens its eye. It will wake up good; whether Victor stays or runs is still his to choose. Every time we build something now, we stand in this room.
+
+**4 · Montanvert, 1794.** August, sunset over the Mer de Glace, the "sea of ice" that gave Victor "a sublime ecstasy that gave wings to the soul". In the hut on the mountain, by the creature's fire, Victor has heard his creation out and says yes: "I consent." The creature's answer: "Depart to your home and commence your labours." Find him on the ice, and the light in the hut. Then build.
 
 **5 · Orkney, 1795.** Three years later, alone on a rock in the remotest of the Orkneys, Victor sinks his second creature at three in the morning, still telling no one. We build alone too now, one person and AI. We just don't keep it secret.
 
@@ -35,5 +37,7 @@ https://github.com/nathankramm/omarchy-ingolstadt-1792-theme
 Wallpapers are AI-generated (Grok Imagine, Nano Banana Pro), directed by Nathan Kramm.
 
 Midnight Sun is painted over a public-domain NOAA photograph (NOAA Photo Library, pl23arct0259, Beaufort Sea, 2008).
+
+Montanvert is painted over a public-domain photograph of the Mer de Glace from Montanvert, 1863–65 (Rijksmuseum, RP-F-F80196).
 
 *"And now, once again, I bid my hideous progeny go forth and prosper."* — Mary Shelley, 1831
