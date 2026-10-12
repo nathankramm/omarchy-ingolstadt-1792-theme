@@ -8,9 +8,11 @@ An Omarchy theme in plum night, moonlit lavender and candle amber, sampled from 
 
 ## Backgrounds
 
-Numbered in the order the story happens. 2 is still being made.
+Numbered in the order the story happens.
 
 **1 · Ingolstadt, 1792.** November, one in the morning. Moments before the creature opens its eye. It will wake up good; whether Victor stays or runs is still his to choose. Every time we build something now, we stand in this room.
+
+**2 · The Fire, 1792.** Winter, a few weeks after the creature woke, in "the forest near Ingolstadt". He found a fire left by "wandering beggars", burnt his hand in it, and wondered "that the same cause should produce such opposite effects". Then he worked it out: he dried wet branches by the heat, kept it alive through the night, and found "that the fire gave light as well as heat." There's no one in the picture. You're the creature, standing at the edge of the trees. A dangerous new power, learned and tended. Build.
 
 **3 · Montanvert, 1794.** August, sunset over the Mer de Glace, the "sea of ice" that gave Victor "a sublime ecstasy that gave wings to the soul". In the hut on the mountain, by the creature's fire, Victor has heard his creation out and says yes: "I consent." The creature's answer: "Depart to your home and commence your labours." Find him on the ice, and the light in the hut. Then build.
 
