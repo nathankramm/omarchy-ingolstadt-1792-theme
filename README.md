@@ -10,6 +10,14 @@ An Omarchy theme in plum night, moonlit lavender and candle amber, sampled from 
 
 https://github.com/user-attachments/assets/dcdc6712-cac7-4054-b486-2d8360d4bdbf
 
+https://github.com/user-attachments/assets/77c32476-bc4c-47b7-95e1-6f17b48d7ebb
+
+https://github.com/user-attachments/assets/56cd7ffa-f2ac-414b-92a1-cfcd6222d6d8
+
+https://github.com/user-attachments/assets/95d1dfde-1c53-46b0-8be0-1a7e21451c53
+
+https://github.com/user-attachments/assets/ebb07ba6-a9a0-460c-9cda-755edac28763
+
 https://github.com/user-attachments/assets/449aa755-af8a-4bfc-9b3b-f56d8bbcba74
 
 ## Backgrounds
