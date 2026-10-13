@@ -76,7 +76,7 @@ omarchy-theme-install https://github.com/nathankramm/omarchy-ingolstadt-1792-the
 
 Or Omarchy menu → Install → Style → Theme, then paste the same URL. Works on Omarchy 3.4 or later, including Omarchy 4.
 
-Already installed? Run `omarchy-theme-update` for the newest pictures and intros.
+Already installed? Run `omarchy-theme-update`, then pick Ingolstadt 1792 again under Style → Theme to load the newest pictures and intros.
 
 **Boot screen.** Choose Ingolstadt 1792 under Style → Unlock for the OMARCHY wordmark in candle gold (Omarchy 3.7 or later).
 
