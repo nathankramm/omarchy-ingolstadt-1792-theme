@@ -6,6 +6,10 @@
 
 An Omarchy theme in plum night, moonlit lavender and candle amber, sampled from the painting.
 
+**Background intro.** The attic opens with a six-second intro: rain running down the panes while the candle and lamp settle. Omarchy plays it when you switch to the theme, once background intros reach a release (they're in Omarchy's development branch now).
+
+https://github.com/user-attachments/assets/dcdc6712-cac7-4054-b486-2d8360d4bdbf
+
 ## Backgrounds
 
 Numbered in the order the story happens. Click a picture for the full 5504×3072 wallpaper.
