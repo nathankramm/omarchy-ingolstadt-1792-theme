@@ -8,17 +8,17 @@ An Omarchy theme in plum night, moonlit lavender and candle amber, sampled from 
 
 **Background intros.** The attic opens with rain running down the panes while the candle and lamp settle. The Fire opens at night on the beggars' embers: the wet branches dry and catch, and the fire gives light as well as heat. Montanvert is the evening the creature leaves, when "the sun was upon the verge of the horizon": the peaks deepen into alpenglow, the glacier sinks into dusk, and smoke rises from the hut. London arrives "on a clear morning": the low sun reaches the steeples, the domes and the treetops first, and warms the city out of the dawn shade. Midnight Sun acts out Walton's "the sun is for ever visible, its broad disk just skirting the horizon": the sun never leaves the sky, it burns from deep red to gold, and the gold comes back across the water and the ice. Out of chaos acts out its quote: the first line surfaces from the dark, then the second is built from single bits flying in from every direction, and the words are given a spark of being. Omarchy plays a background's intro at login and when you switch to the theme, once background intros reach a release (they're in Omarchy's development branch now).
 
-https://github.com/user-attachments/assets/dcdc6712-cac7-4054-b486-2d8360d4bdbf
+https://github.com/user-attachments/assets/8806dc00-05a1-473b-8179-a6ee8646842c
 
-https://github.com/user-attachments/assets/77c32476-bc4c-47b7-95e1-6f17b48d7ebb
+https://github.com/user-attachments/assets/5865c822-cb63-42ab-ba6d-ac659d6ecf15
 
-https://github.com/user-attachments/assets/56cd7ffa-f2ac-414b-92a1-cfcd6222d6d8
+https://github.com/user-attachments/assets/686106f1-c335-417c-8cea-ebb3fdec7301
 
-https://github.com/user-attachments/assets/95d1dfde-1c53-46b0-8be0-1a7e21451c53
+https://github.com/user-attachments/assets/7e5bd374-c789-49e8-9dad-0947e5d18c66
 
-https://github.com/user-attachments/assets/ebb07ba6-a9a0-460c-9cda-755edac28763
+https://github.com/user-attachments/assets/f7d78dfc-d5bb-4eac-acbb-e6eeac564d11
 
-https://github.com/user-attachments/assets/449aa755-af8a-4bfc-9b3b-f56d8bbcba74
+https://github.com/user-attachments/assets/9702e1e7-795a-45de-90c6-19028647c77b
 
 ## Backgrounds
 
