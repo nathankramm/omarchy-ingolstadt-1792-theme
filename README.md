@@ -1,6 +1,6 @@
 # Ingolstadt 1792
 
-![Ingolstadt 1792](preview.png)
+![Ingolstadt 1792 on an Omarchy desktop: Neovim, btop, a terminal and Files in plum and lavender](preview.png)
 
 > Ingolstadt, November 1792. One in the morning. Rain on the attic panes, the candle nearly burnt out. Victor Frankenstein has built everything he can. All that's left is a spark of being. AI and Omarchy put the laboratory in our hands. So build. Experiment.
 
@@ -76,7 +76,11 @@ omarchy-theme-install https://github.com/nathankramm/omarchy-ingolstadt-1792-the
 
 Or Omarchy menu → Install → Style → Theme, then paste the same URL. Works on Omarchy 3.4 or later, including Omarchy 4.
 
+Already installed? Run `omarchy-theme-update` for the newest pictures and intros.
+
 **Boot screen.** Choose Ingolstadt 1792 under Style → Unlock for the OMARCHY wordmark in candle gold (Omarchy 3.7 or later).
+
+![The unlock screen: OMARCHY in candle gold above the password field](preview-unlock.png)
 
 **Screensaver.** *OMARCHY; or, The Modern Prometheus*, after the 1818 title page, drawn in the Omarchy logo font.
 
