@@ -54,6 +54,14 @@ Or Omarchy menu → Install → Style → Theme, then paste the same URL. Works 
 
 **Boot screen.** Choose Ingolstadt 1792 under Style → Unlock for the OMARCHY wordmark in candle gold (Omarchy 3.7 or later).
 
+**Screensaver.** *OMARCHY; or, The Modern Prometheus*, after the 1818 title page, drawn in the Omarchy logo font. It's optional. To use it:
+
+```bash
+cp ~/.config/omarchy/themes/ingolstadt-1792/branding/screensaver.txt ~/.config/omarchy/branding/screensaver.txt
+```
+
+It uses newer block characters that Foot (Omarchy's default), Ghostty and Kitty draw. On Alacritty, copy `screensaver-classic.txt` instead. Style → Screensaver → Restore Default brings back the Omarchy logo.
+
 ## Palette
 
 | Role | Hex |
