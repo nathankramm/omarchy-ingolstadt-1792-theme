@@ -6,7 +6,7 @@
 
 An Omarchy theme in plum night, moonlit lavender and candle amber, sampled from the painting.
 
-**Background intros.** The attic opens with rain running down the panes while the candle and lamp settle. Out of chaos acts out its quote: the first line surfaces from the dark, then the second is built from single bits flying in from every direction, and the words are given a spark of being. Omarchy plays a background's intro at login and when you switch to the theme, once background intros reach a release (they're in Omarchy's development branch now).
+**Background intros.** The attic opens with rain running down the panes while the candle and lamp settle. The Fire opens at night on the beggars' embers: the wet branches dry and catch, and the fire gives light as well as heat. Out of chaos acts out its quote: the first line surfaces from the dark, then the second is built from single bits flying in from every direction, and the words are given a spark of being. Omarchy plays a background's intro at login and when you switch to the theme, once background intros reach a release (they're in Omarchy's development branch now).
 
 https://github.com/user-attachments/assets/dcdc6712-cac7-4054-b486-2d8360d4bdbf
 
