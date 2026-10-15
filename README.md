@@ -46,7 +46,7 @@ Backgrounds 1 to 6 each open with a six-second intro that ends on the still. Int
 
 The attic opens with rain running down the panes while the candle and lamp settle.
 
-https://github.com/user-attachments/assets/8806dc00-05a1-473b-8179-a6ee8646842c
+https://github.com/user-attachments/assets/18b51d0a-7c6f-434c-a013-22a3a826f752
 
 The Fire opens at night on the beggars' embers: the wet branches dry and catch, and the fire gives light as well as heat.
 
@@ -54,7 +54,7 @@ https://github.com/user-attachments/assets/5865c822-cb63-42ab-ba6d-ac659d6ecf15
 
 Montanvert is the evening the creature leaves, when "the sun was upon the verge of the horizon": the peaks deepen into alpenglow, the glacier sinks into dusk, and smoke rises from the hut.
 
-https://github.com/user-attachments/assets/686106f1-c335-417c-8cea-ebb3fdec7301
+https://github.com/user-attachments/assets/d028cb9f-50c5-4ad4-87d4-1f28e8f767d9
 
 London arrives "on a clear morning": the low sun reaches the steeples, the domes and the treetops first, and warms the city out of the dawn shade.
 
@@ -62,7 +62,7 @@ https://github.com/user-attachments/assets/7e5bd374-c789-49e8-9dad-0947e5d18c66
 
 Midnight Sun acts out Walton's "the sun is for ever visible; its broad disk just skirting the horizon": the sun never leaves the sky, it burns from deep red to gold, and the gold comes back across the water and the ice.
 
-https://github.com/user-attachments/assets/f7d78dfc-d5bb-4eac-acbb-e6eeac564d11
+https://github.com/user-attachments/assets/0d907681-052a-4ef9-8695-f4b4e0de1b50
 
 Out of chaos acts out its quote: the first line surfaces from the dark, then the second is built from single bits flying in from every direction, and the words are given a spark of being.
 
