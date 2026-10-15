@@ -4,31 +4,31 @@
 
 > Ingolstadt, November 1792. One in the morning. Rain on the attic panes, the candle nearly burnt out. Victor Frankenstein has built everything he can. All that's left is a spark of being. AI and Omarchy put the laboratory in our hands. So build. Experiment.
 
-An Omarchy theme in plum night, moonlit lavender and candle amber, sampled from the attic painting.
+An Omarchy theme from Mary Shelley's *Frankenstein*, in plum night, moonlit lavender and candle amber, sampled from the attic painting.
 
 ## Backgrounds
 
 Numbered in the order the story happens. Click a picture for the full 5504×3072 wallpaper.
 
-[![Victor Frankenstein in his attic laboratory at night, rain on the window, Ingolstadt beyond](thumbnails/1-ingolstadt-1792.webp)](backgrounds/1-ingolstadt-1792.webp)
+[![An attic laboratory at night, a candle on the bench, rain on the window, Ingolstadt beyond](thumbnails/1-ingolstadt-1792.webp)](backgrounds/1-ingolstadt-1792.webp)
 
-**1 · Ingolstadt, 1792.** November, one in the morning. Moments before the creature opens its eye. It will wake up good; whether Victor stays or runs is still his to choose. Every time we build something now, we stand in this room.
+**1 · Ingolstadt, 1792.** November, one in the morning, the night Victor brings his creation to life. By its own account it wakes "benevolent and good". The tragedy is that Victor runs from it. With AI, every builder stands in this room now. Don't run. Build.
 
 [![A small fire under bare oaks at winter dusk, wet branches drying beside it, a crescent moon above](thumbnails/2-the-fire-1792.webp)](backgrounds/2-the-fire-1792.webp)
 
-**2 · The Fire, 1792.** Winter, a few weeks after the creature woke, in "the forest near Ingolstadt". He found a fire left by "wandering beggars", burnt his hand in it, and wondered "that the same cause should produce such opposite effects". Then he worked it out: he dried wet branches by the heat, kept it alive through the night, and found "that the fire gave light as well as heat". There's no one in the picture. You're the creature, standing at the edge of the trees. A dangerous new power, learned and tended. Build.
+**2 · The Fire, 1792.** Winter, a few weeks after the creature woke, in "the forest near Ingolstadt". He found a fire left by "wandering beggars", burnt his hand in it, and wondered "that the same cause should produce such opposite effects". He didn't walk away. He dried wet branches by the heat, kept it alive through the night, and found "that the fire gave light as well as heat". AI is learned the same way: by working with it every day. Build.
 
 [![Sunset alpenglow over the Mer de Glace, a lit hut on the slope](thumbnails/3-montanvert-1794.webp)](backgrounds/3-montanvert-1794.webp)
 
-**3 · Montanvert, 1794.** August, sunset over the Mer de Glace, the "sea of ice" that gave Victor "a sublime ecstasy, that gave wings to the soul". In the hut on the mountain, by the creature's fire, Victor has heard his creation out and says yes: "I consent". The creature's answer: "Depart to your home, and commence your labours". Find him on the ice, and the light in the hut. Then build.
+**3 · Montanvert, 1794.** August, sunset over the Mer de Glace, the "sea of ice" that gave Victor "a sublime ecstasy, that gave wings to the soul". In the hut on the mountain, Victor hears his creation out and says yes: "I consent". The creature's answer: "Depart to your home, and commence your labours". Plenty of people are still deciding whether to say yes to AI. The yes is the easy part. Then the labours begin. Build.
 
 [![London and St Paul's from Greenwich Park, ships on the Thames](thumbnails/4-london-1794.webp)](backgrounds/4-london-1794.webp)
 
-**4 · London, 1794.** A clear autumn morning, from Greenwich Park. Victor and Clerval sail up the Thames past Greenwich, and "at length we saw the numerous steeples of London, St. Paul's towering above all". Victor has come for "the most distinguished natural philosophers"; Clerval for "the men of genius and talent who flourished at this time". Find their ship on the river. The best minds used to be a voyage away. With AI, they're a question away. Learn, then build.
+**4 · London, 1794.** A clear autumn morning over the Thames at Greenwich. Victor and Clerval sail upriver, and "at length we saw the numerous steeples of London, St. Paul's towering above all". Victor has come for "the most distinguished natural philosophers"; Clerval for "the men of genius and talent who flourished at this time". The best minds used to be a voyage away. With AI, they work beside you. Build.
 
-[![A low sun over Arctic pack ice, a ship far off](thumbnails/5-midnight-sun-1797.webp)](backgrounds/5-midnight-sun-1797.webp)
+[![A low sun over Arctic pack ice, gold on the open water](thumbnails/5-midnight-sun-1797.webp)](backgrounds/5-midnight-sun-1797.webp)
 
-**5 · Midnight Sun, 1797.** July, "a very high latitude", where "the sun is for ever visible". Robert Walton drives north through the drifting ice toward the pole, the voyage that frames the whole novel. "Success shall crown my endeavours." "What can stop the determined heart and resolved will of man?" With AI, nothing. Build.
+**5 · Midnight Sun, 1797.** July, "a very high latitude", where "the sun is for ever visible". Robert Walton sails north through the drifting ice toward the pole, on the voyage that frames the whole novel. He writes home: "Success shall crown my endeavours." And: "What can stop the determined heart and resolved will of man?" With AI, nothing. Build.
 
 <table><tr>
 <td width="33%"><a href="backgrounds/6-out-of-chaos.webp"><img src="thumbnails/6-out-of-chaos.webp" alt="Pixel text: Not out of void, but out of chaos"></a></td>
@@ -42,7 +42,7 @@ Numbered in the order the story happens. Click a picture for the full 5504×3072
 
 ## Background intros
 
-Backgrounds 1 to 6 each open with a six-second intro that ends on the still. Omarchy plays a background's intro at login and when you switch to the theme, once background intros reach a release (they're in Omarchy's development branch now).
+Backgrounds 1 to 6 each open with a six-second intro that ends on the still. Intros are in Omarchy's development branch; once they ship in a release, they'll play at login and when you switch to the theme.
 
 The attic opens with rain running down the panes while the candle and lamp settle.
 
