@@ -58,7 +58,7 @@ https://github.com/user-attachments/assets/d028cb9f-50c5-4ad4-87d4-1f28e8f767d9
 
 London arrives "on a clear morning": the low sun reaches the steeples, the domes and the treetops first, and warms the city out of the dawn shade.
 
-https://github.com/user-attachments/assets/7e5bd374-c789-49e8-9dad-0947e5d18c66
+https://github.com/user-attachments/assets/d4a6501b-2172-4e7f-8af4-e0058ba79fd4
 
 Midnight Sun acts out Walton's "the sun is for ever visible; its broad disk just skirting the horizon": the sun never leaves the sky, it burns from deep red to gold, and the gold comes back across the water and the ice.
 
