@@ -110,6 +110,16 @@ It uses newer block characters that Foot (Omarchy's default), Ghostty and Kitty 
 
 Full palette in [`colors.toml`](colors.toml). Icons are `Yaru-purple`; Chrome gets near-stock greys (`#161518`).
 
+## How this was built
+
+I chose the idea and wrote the spec. Claude Code wrote most of the code, including the intros and the screensaver. The five scenes are AI images I directed (see Credit).
+
+There are no tests in this repo. What was checked:
+
+- Every quotation, by script, against Project Gutenberg's texts of the 1818 and 1831 editions.
+- Changes to the art and colors, looked at installed on my own Omarchy machine before they shipped.
+- An Omarchy theme registry's automated submission check passed it.
+
 ## Credit
 
 The five scenes are AI-generated (Grok Imagine, Nano Banana Pro), directed by Nathan Kramm. 6, 7 and 8 are drawn in code, and so is the screensaver. The intros are animated in code from the pictures.
